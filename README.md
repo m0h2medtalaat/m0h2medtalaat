@@ -22,16 +22,17 @@
 <p align="center">
   <img align="left"  height="180" width="400" src="https://github-readme-stats.vercel.app/api?username=m0h2medtalaat&&show_icons=true" />
   <img align="right" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0h2medtalaat&layout=compact" />
-
 </p>
 
 
-
-
-Languages and Tools:
+<p align="center">
+  Languages and Tools:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" width="22"/><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" width="22"/> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" width="22"/> 
 
 Previous companies
 - [AMH Company](http://amh-egypt.com/)<br/>
 - [Freezil](https://www.freezil.com/)<br/>
+</p>
+
+
