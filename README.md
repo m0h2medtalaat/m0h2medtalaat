@@ -19,10 +19,10 @@
 
 ![](https://img.shields.io/badge/Exp-+2year-7f0000)
 
-<p align="center">
+
   <img align="left"  height="180" width"400" src="https://github-readme-stats.vercel.app/api?username=m0h2medtalaat&&show_icons=true" />
   <img align="right" height="180" width"400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0h2medtalaat&layout=compact" />
-</p>
+
 
 
   Languages and Tools:
