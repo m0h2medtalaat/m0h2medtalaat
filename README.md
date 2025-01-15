@@ -2,7 +2,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/> <br/>
 
-- 👨🏽‍💻 I’m currently working at [Lumin Soft](http://luminsoft.net/)  
+- 👨🏽‍💻 I’m currently working at [Dsquares](http://dsquares.com/)  
 - 👯 I’m looking to collaborate on Flutter
 - 💬 Ask me about mobile development any time you are welcome.
 - 📫 You can reach me via : 
@@ -17,7 +17,7 @@
 - [I'M HUNGRY](https://play.google.com/store/apps/details?id=com.imhungry.www&hl=ar&gl=US) - The Captain application for Turbo company.<br/>
 - [Ahmed Nasser Portfolio](https://ahmednasser74.github.io/ahmednasser/) - My portfolio web site by flutter.<br/> -->
 
-![](https://img.shields.io/badge/Exp-+3year-7f0000)
+![](https://img.shields.io/badge/Exp-+5year-7f0000)
 
 <p>
   <img align="left"  height="180" width"400" src="https://github-readme-stats.vercel.app/api?username=m0h2medtalaat&&show_icons=true" />
