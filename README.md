@@ -2,7 +2,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/> <br/>
 
-- 👨🏽‍💻 I’m currently working at [Dsquares](http://dsquares.com/)  
+- 👨🏽‍💻 I’m currently working at [Adree](http://https://adree.com/)  
 - 👯 I’m looking to collaborate on Flutter
 - 💬 Ask me about mobile development any time you are welcome.
 - 📫 You can reach me via : 
@@ -36,6 +36,8 @@
 
 
 Previous companies
+- [Dsquares Company](http://https://dsquares.com/)<br/>
+- [Lumin Soft Company](http://https://luminsoft.net/)<br/>
 - [AMH Company](http://amh-egypt.com/)<br/>
 - [Freezil](https://www.freezil.com/)<br/>
 
